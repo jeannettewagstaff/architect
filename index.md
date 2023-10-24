@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-hello  Jeannette s
+hello  Jeannette 
+
+the time is gold
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
